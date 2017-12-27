@@ -1,0 +1,2 @@
+C:\Users\nico\source\repos\Exercise1\Exercise1\Exercise1.csproj;x86
+C:\Users\nico\source\repos\Exercise1\Exercise1_Test\Exercise1_Test.csproj;x86
