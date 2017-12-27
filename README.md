@@ -2,7 +2,7 @@
 
 Summary:
 
--This exercise has been done using an simplified MVC approach taking into account the small scope
+-This exercise has been done using a simplified MVC approach taking into account the small scope
 
 -There is an ERD in the ERD folder located in the root directory
 
