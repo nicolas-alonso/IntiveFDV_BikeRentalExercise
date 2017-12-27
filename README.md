@@ -1,6 +1,6 @@
 # IntiveFDV_BikeRental
 
-Summary
+Summary:
 
 -This exercise has been done using an simplified MVC approach taking into account the small scope
 
@@ -15,4 +15,5 @@ Summary
 -There is room for improvement mainly in the rule and promotion section
 
 Tests:
+
 -To execute the tests, open the "Exercise1.sln" file inside the Exercise1 folder. Then open the test explorer and run all the tests.
